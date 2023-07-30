@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)]
+![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Vishwajeet Kumar</h1>
 <h3 align="center">A passionate frontend developer and designer from India</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://witcher0766.github.io/portfolio/#](https://witcher0766.github.io/portfolio/#)
 
-- 💬 Ask me about **Web dev, MERN, Figma, Excel**
+- 💬 Ask me about **Web dev, MERN, Excel**
 
 - 📫 How to reach me **kumarvishwajeet076@gmail.com**
 
