@@ -1,31 +1,78 @@
-![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676if)
+
 <h1 align="center">Hi 👋, I'm Vishwajeet Kumar</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A Passionate Software Developer | Flutter Enthusiast | Full-Stack Developer</h3>
+
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=witcher0766&label=Profile%20views&color=0e75b6&style=flat" alt="witcher0766" /> </p>
-
-- 🌱 I’m currently learning **Flutter and Dart**
-
-- 👨‍💻 All of my projects are available at [https://witcher0766.github.io/portfolio/#](https://witcher0766.github.io/portfolio/#)
-
-- 💬 Ask me about **Web dev, Android dev, Excel**
-
-- 📫 How to reach me **kumarvishwajeet076@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/witcher0766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="witcher0766" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishwajeet-kumar-8080a51bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwajeet-kumar-8080a51bb/" height="30" width="40" /></a>
-<a href="https://instagram.com/vishwajeet_kr076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishwajeet_kr076" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kumarvishwajeet076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarvishwajeet076" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=witcher0766&label=Profile%20views&color=0e75b6&style=flat" alt="witcher0766" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=witcher0766&show_icons=true&locale=en&layout=compact" alt="witcher0766" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=witcher0766&show_icons=true&locale=en" alt="witcher0766" /></p>
+I'm a passionate software developer with a strong interest in building scalable and user-friendly applications. Currently, I'm diving deep into **Flutter and Dart** to create cross-platform mobile applications. I also have experience in **web development** and **Android development**, and I love exploring new technologies to enhance my skill set.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=witcher0766&" alt="witcher0766" /></p>
+---
+
+### 🛠️ Skills & Tools
+
+#### Languages:
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+#### Frontend Development:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+
+#### Backend Development:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+#### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### Mobile Development:
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+#### Design Tools:
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📂 Projects
+
+All of my projects are available at **[My Portfolio](https://witcher0766.github.io/portfolio/#)**. Feel free to explore and provide feedback!
+
+---
+
+### 📫 Get in Touch
+
+- **Email:** kumarvishwajeet076@gmail.com
+- **LinkedIn:** [Vishwajeet Kumar](https://linkedin.com/in/vishwajeet-kumar-8080a51bb/)
+- **Instagram:** [vishwajeet_kr076](https://instagram.com/vishwajeet_kr076)
+- **CodePen:** [witcher0766](https://codepen.io/witcher0766)
+- **GeeksforGeeks:** [kumarvishwajeet076](https://auth.geeksforgeeks.org/user/kumarvishwajeet076)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=witcher0766&show_icons=true&theme=radical" alt="witcher0766" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=witcher0766&show_icons=true&locale=en&layout=compact&theme=radical" alt="witcher0766" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=witcher0766&theme=radical" alt="witcher0766" />
+</p>
+
+---
+
+### 🌟 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me via any of the platforms mentioned above. Let's build something amazing together! �
