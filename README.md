@@ -60,15 +60,12 @@ If you like my work, consider supporting me!
 
 ---
 
-## **📂 Featured Projects**
+## **📂 My Projects**
 
-All of my projects are available at **[My Portfolio]([https://witcher0766.github.io/portfolio/#](https://freelancerportfolio.onrender.com/))**. Some highlights:
-
-- **Project 1**: [Brief description + link]
-- **Project 2**: [Brief description + link]
-- **Project 3**: [Brief description + link]
+Explore my work at **[My Portfolio](https://freelancerportfolio.onrender.com/)**
 
 ---
+
 
 ## **📊 GitHub Stats**
 
