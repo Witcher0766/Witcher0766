@@ -70,20 +70,18 @@ Explore my work at **[My Portfolio](https://freelancerportfolio.onrender.com/)**
 ## **📊 GitHub Analytics**
 
 <div align="center">
-  
-### **My Coding Journey at a Glance**
-  
-[![Vishwajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=witcher0766&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl&hide_border=true&bg_color=0D1117)](https://github.com/witcher0766)
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=witcher0766&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://git.io/streak-stats)
 
-### **Top Languages**
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=witcher0766&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&hide=html,css)](https://github.com/witcher0766)
+### **My Development Activity**
+
+[![Vishwajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=witcher0766&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)](https://github.com/witcher0766)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=witcher0766&theme=dracula&hide_border=true&fire=DD472D&type=svg)](https://github.com/witcher0766)
+
+### **Most Used Languages**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=witcher0766&layout=compact&theme=dracula&hide_border=true&exclude_repo=github-readme-stats,witcher0766.github.io)](https://github.com/witcher0766)
 
 </div>
-
----
 
 ## **📫 Let's Connect!**
 
